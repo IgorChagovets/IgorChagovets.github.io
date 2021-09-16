@@ -11,5 +11,5 @@
 
 1. git add *
 2. git commit -m "Я поменял название"
-3. git push origin master
+3. git push origin master https://oliver-twst.github.io/IgorChagovets.github.io/
 4. Вас спросит ваш username и password
